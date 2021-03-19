@@ -1,4 +1,4 @@
-# Puppy Lab
+ruby-oo-advanced-class-methods-puppy-lab# Puppy Lab
 
 ## Learning Goals
 
